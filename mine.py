@@ -8,7 +8,7 @@ with shelve.open("sauth.db") as sauth:
         auth["username"] = sauth["username"]
         auth["password"] = sauth["password"]  # Check if saved username + password exists, and if so save them to auth
     except KeyError:
-        print("Please input username")
+        print("Please input email")
         auth["username"] = input()
         print("Please input password")
         auth["password"] = input() # If saved username + password does not exist, create them.
