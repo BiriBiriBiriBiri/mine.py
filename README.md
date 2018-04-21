@@ -1,22 +1,29 @@
 # mine.py
 PURPOSE:
-Get that SLIME as fast as possible
+Get that SLIME as fast and easily as possible
 
-HOW TO INSTALL:
+HOW TO RUN THE EASY WAY:
+1. Go to the releases section (https://github.com/BiriBiriBiriBiri/mine.py/releases)
+2. Download the latest version of mine.zip
+3. Extract zip file.
+4. Run mine.exe and everything should work.
+
+HOW TO RUN THE HARD WAY:
 1. Install python3 from here https://www.python.org/downloads/
 2. Open a command prompt
 3. Type in "pip install discord.py" and wait for it to install
-4. Download the mine.py zip file on this page and extract it.
-5. Open config.py in notepad or similar application and replace the 'error's with your password and username, each surrounded by single quotes (example: 'rowdyfucker@gmail.com')
-6. Run the file mine.py with python3, and if you get any errors make sure everything above is set up correctly.
+4. Download or clone the git repository (this page, the green button).
+5. Run the file mine.py with python3.
 
 HOW TO USE:
-Just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the python window. 
+On your first run of the program, it should prompt you for your username and password. This is your discord username and password. Input them after the prompts. You only need to do this once. Then, after a few seconds it will say "Logged in as <your username>". Once that appears, just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the window. 
+  
+If you wish to delete the saved account username and password, simply delete all the files that start with "sauth.db" 
 
-If you have any problems @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord. 
+If you have any problems contact @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord.
 
-TO BE ADDED:
+TO BE ADDED
 
 -Game the Discord message limit to send messages as effeciently as possible.
 
--FAQ for problems installing
+-FAQ for problems running
