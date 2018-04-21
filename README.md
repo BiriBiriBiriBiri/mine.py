@@ -22,7 +22,7 @@ If you wish to delete the saved account username and password, simply delete all
 
 If you have any problems contact @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord.
 
-TO BE ADDED
+TODO LIST:
 
 -Game the Discord message limit to send messages as effeciently as possible.
 
