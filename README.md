@@ -6,7 +6,7 @@ HOW TO RUN THE EASY WAY:
 1. Go to the releases section (https://github.com/BiriBiriBiriBiri/mine.py/releases)
 2. Download the latest version of mine.zip
 3. Extract zip file.
-4. Run mine.exe and everything should work.
+4. Run mine.exe.
 
 HOW TO RUN THE HARD WAY:
 1. Install python3 from here https://www.python.org/downloads/
