@@ -17,6 +17,6 @@ If you have any problems @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord.
 
 TO BE ADDED:
 
-Game the Discord message limit to send messages as effeciently as possible.
+-Game the Discord message limit to send messages as effeciently as possible.
 
-FAQ for problems installing
+-FAQ for problems installing
