@@ -16,5 +16,7 @@ Just go into a channel and type "!mine" once. Your account will begin spamming !
 If you have any problems @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord. 
 
 TO BE ADDED:
+
 Game the Discord message limit to send messages as effeciently as possible.
+
 FAQ for problems installing
