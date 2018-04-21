@@ -16,7 +16,7 @@ HOW TO RUN THE HARD WAY:
 5. Run the file mine.py with python3.
 
 HOW TO USE:
-On your first run of the program, it should prompt you for your username and password. This is your discord username and password. Input them after the prompts. You only need to do this once. Then, after a few seconds it will say "Logged in as (your username)". Once that appears, just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the window. 
+On your first run of the program, it should prompt you for your email and password. This is your discord email and password. Input them after the prompts. You only need to do this once. Then, after a few seconds it will say "Logged in as (your username)". Once that appears, just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the window. 
   
 If you wish to delete the saved account username and password, simply delete all the files that start with "sauth.db" 
 
