@@ -26,6 +26,6 @@ TODO LIST:
 
 -Game the Discord message limit to send messages as effeciently as possible.
 
--FAQ for problems running
+-FAQ for problems
 
 -Add comments to the code so other people can tell what is going on 
