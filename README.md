@@ -16,14 +16,12 @@ HOW TO RUN THE HARD WAY:
 5. Run the file mine.py with python3.
 
 HOW TO USE:
-On your first run of the program, it should prompt you for your email and password. This is your discord email and password. Input them after the prompts. You only need to do this once. Then, after a few seconds it will say "Logged in as (your username)". Once that appears, just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the window. 
+On your first run of the program, it should prompt you for your email and password. This is your discord email and password. Input them after the prompts. You only need to do this once. After this it will ask you if want to use non-stop mode. Input a Y or N to answer. Then, after a few seconds it will say "Logged in as (your username)". Once that appears, just go into a channel and type "!mine" once. Your account will begin spamming !mine immediatly. To stop this, simply close the window. 
   
 If you wish to delete the saved account username and password, simply delete all the files that start with "sauth.db" 
 
 If you have any problems contact @BiriBiri on RFCK Discord or the Rowdy Fuckers Discord.
 
 TODO LIST:
-
--Game the Discord message limit to send messages as effeciently as possible.
 
 -FAQ for problems
